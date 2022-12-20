@@ -1,5 +1,5 @@
 - 👋 Hi, we are @ipHeaders
-- 📫 How to reach me ... 
+- 📫 How to reach me kentik.hanzo94@gmail.com 
 
 <!---
 ipHeaders/ipHeaders is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
